@@ -1,4 +1,4 @@
-package com.twu.refactoring;
+package com.tw.refactoring;
 
 public class LineItem {
 	private String desc;

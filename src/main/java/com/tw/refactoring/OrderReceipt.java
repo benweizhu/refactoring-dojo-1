@@ -1,4 +1,4 @@
-package com.twu.refactoring;
+package com.tw.refactoring;
 
 /**
  * OrderReceipt prints the details of order including customer name, address, description, quantity,
